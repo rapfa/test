@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi whassup bro
 finall test
 
+=======
+hi
+>>>>>>> parent of a6b2823 (ok it seems alright)
